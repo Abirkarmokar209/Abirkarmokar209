@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Abir Karmokar!  
 
-
 <h3>🚀 Aspiring Software Engineer | ML/AI Engineer | Technology Explorer | Tech Enthusiast</h3>
 <br>
 <br>🎓 Software Engineering Student @ Daffodil International University
