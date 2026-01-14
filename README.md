@@ -2,7 +2,7 @@
 
 <h3>🚀 Aspiring Software Engineer | ML/AI Engineer | Technology Explorer | Tech Enthusiast</h3>
 <br>
-<br>🎓 Software Engineering Student @ Daffodil International University
+<br> # 🎓 Software Engineering Student @ Daffodil International University
 <br>
 Passionate about building innovative software, exploring emerging technologies, and creating impactful solutions. Currently learning AI/ML and experienced in web development, with a goal to excel in the tech industry.
 
