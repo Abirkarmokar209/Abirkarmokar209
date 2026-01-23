@@ -17,8 +17,8 @@ Passionate about building innovative software, exploring emerging technologies, 
 
 
 ## 📫 How to reach me:
-- 📧 Email: [abdullahalnoman.swe003@gmail.com](mailto:abirkarmokar209@gmail.com)
-- 📲 Whatsapp: [+8801522102892](https://wa.me/+8801811239420)
+- 📧 Email: [abirkarmokar209@gmail.com](mailto:abirkarmokar209@gmail.com)
+- 📲 Whatsapp: [+8801811239420](https://wa.me/+8801811239420)
 
 
 <p align="center">
